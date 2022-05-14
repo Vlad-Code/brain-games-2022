@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My first frontend project in 2022",
+  "main": "brain-games.js",
+  "bin": {
+    "brain-games-2022": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-Code/brain-games-2022.git"
+  },
+  "author": "Vladislav Kungurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-Code/brain-games-2022/issues"
+  },
+  "homepage": "https://github.com/Vlad-Code/brain-games-2022#readme"
+}
