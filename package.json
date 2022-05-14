@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Vlad-Code/brain-games-2022/issues"
   },
-  "homepage": "https://github.com/Vlad-Code/brain-games-2022#readme"
+  "homepage": "https://github.com/Vlad-Code/brain-games-2022#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
