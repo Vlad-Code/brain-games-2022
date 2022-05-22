@@ -5,3 +5,7 @@
 <a href="https://asciinema.org/a/496360" target="_blank"><img src="https://asciinema.org/a/496360.svg" /></a>
 
 Brain-even game
+
+<a href="https://asciinema.org/a/496380" target="_blank"><img src="https://asciinema.org/a/496380.svg" /></a>
+
+Brain-calc game
