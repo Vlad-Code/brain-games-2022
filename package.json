@@ -6,7 +6,8 @@
   "main": "brain-games.js",
   "bin": {
     "brain-games-2022": "bin/brain-games.js",
-    "brain-even-2022": "bin/brain-even.js"
+    "brain-even-2022": "bin/brain-even.js",
+    "brain-calc-2022": "bin/brain-calc.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
