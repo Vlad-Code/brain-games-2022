@@ -13,20 +13,15 @@ const getGsd = () => {
     if (num1 > num2) {
       const remains = num1 % num2;
       if (remains === 0) {
-        const rightAnswer = num2;
-        return [mainQuestion, question, rightAnswer];
+        return [mainQuestion, question, num2];
       }
       return getEuclidsGsd(num2, remains);
     }
-    if (num1 < num2) {
-      if (num2 % num1 === 0) {
-        const rightAnswer = num1;
-        return [mainQuestion, question, rightAnswer];
-      }
-      const remains = num2 % num1;
-      return getEuclidsGsd(num1, remains);
+    if (num2 % num1 === 0) {
+      return [mainQuestion, question, num1];
     }
-    return num1;
+    const remains = num2 % num1;
+    return getEuclidsGsd(num1, remains);
   };
   return getEuclidsGsd(numberOne, numberTwo);
 };
