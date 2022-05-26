@@ -13,3 +13,7 @@ Brain-calc game
 <a href="https://asciinema.org/a/497053" target="_blank"><img src="https://asciinema.org/a/497053.svg" /></a>
 
 Brain-gcd game
+
+<a href="https://asciinema.org/a/497341" target="_blank"><img src="https://asciinema.org/a/497341.svg" /></a>
+
+Brain-progression game
