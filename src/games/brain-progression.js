@@ -18,7 +18,7 @@ const getProgression = () => {
     }
     number += difference;
   }
-  const normalisedQuestion = question.trim();
+  const normalisedQuestion = `Question: ${question.trim()}`;
   return [mainQuestion, normalisedQuestion, rightAnswer];
 };
 
